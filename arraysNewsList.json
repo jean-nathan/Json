@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Novo produto lançado no mercado",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ligula at lorem ullamcorper, id gravida justo ultricies.",
+    "image": "https://loremflickr.com/419/225/park?1",
+    "create_at": "2024-05-14 08:00:00"
+  },
+  {
+    "title": "Novo produto lançado no mercado",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ligula at lorem ullamcorper, id gravida justo ultricies.",
+    "image": "https://loremflickr.com/419/225/park?2",
+    "create_at": "2024-05-14 08:00:00"
+  },
+  {
+    "title": "Novo produto lançado no mercado",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ligula at lorem ullamcorper, id gravida justo ultricies.",
+    "image": "https://loremflickr.com/419/225/park?3",
+    "create_at": "2024-05-14 08:00:00"
+  },
+  {
+    "title": "Novo produto lançado no mercado",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ligula at lorem ullamcorper, id gravida justo ultricies.",
+    "image": "https://loremflickr.com/419/225/park?4",
+    "create_at": "2024-05-14 08:00:00"
+  },
+  {
+    "title": "Novo produto lançado no mercado",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ligula at lorem ullamcorper, id gravida justo ultricies.",
+    "image": "https://loremflickr.com/419/225/park?5",
+    "create_at": "2024-05-14 08:00:00"
+  },
+  {
+    "title": "Novo produto lançado no mercado",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vehicula ligula at lorem ullamcorper, id gravida justo ultricies.",
+    "image": "https://loremflickr.com/419/225/park?6",
+    "create_at": "2024-05-14 08:00:00"
+  }
+]
